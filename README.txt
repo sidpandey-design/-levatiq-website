@@ -1,0 +1,1 @@
+LEVATIQ website correction. Upload ALL files in this ZIP to the ROOT of your GitHub repository, replacing index.html, script.js, levatiq-logo.png and favicon.png. New stylesheet is levatiq-layout-v2.css. Keep old style.css if present; the new homepage does not use it. Formspree endpoint is unchanged. If the website appears unchanged, refresh the page or open in a private tab.
